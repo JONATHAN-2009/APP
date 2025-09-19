@@ -1,0 +1,5 @@
+{
+  "name": "Sportify",
+  "description": "Your personalized daily sports briefing, powered by AI. Select your favorite sports and get a unique summary of the latest news, complete with a custom-generated image to capture the day's highlights.",
+  "requestFramePermissions": []
+}
